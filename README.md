@@ -4,7 +4,6 @@
 <li>download zip file or clone the project</li>
 <li>cp .env.example .env</li>
 <li>open .env and update DB_DATABASE (database details)</li>
-<li>run : composer install</li>
 <li>run : php artisan migrate:fresh --seed</li>
 <li>run : php artisan serve</li>
 </ol>
